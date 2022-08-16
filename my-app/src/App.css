@@ -1,0 +1,40 @@
+.main {
+  min-height: 100vh;
+  background-color: #eee;
+  padding: 2rem;
+}
+
+.map {
+  width: 70%;
+  height: 30rem;
+  margin: auto;
+  overflow: hidden;
+  border: 2px solid rgb(94, 94, 94);
+}
+.leaflet-container {
+  width: 100%;
+  height: 100vh;
+}
+.actor{
+  width: 70%;
+  margin: auto;
+  display: flex;
+  justify-content: space-around;
+  margin-top: 2rem;
+}
+.add{
+background-color: seagreen;
+padding: 5px 10px ;
+color: #eee;
+}
+table {
+  width: 70%;
+  border: 1px solid rgb(105, 105, 105);
+  margin: auto;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+
+}
+td {
+  text-align: center;
+}
